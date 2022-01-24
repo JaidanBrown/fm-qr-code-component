@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+:root {
+	--clr-white: hsl(0, 0%, 100%);
+	--clr-light-gray: hsl(212, 45%, 89%);
+	--clr-grayish-blue: hsl(220, 15%, 55%);
+	--clr-dark-blue: hsl(218, 44%, 22%);
+
+	--weight-400: 400;
+	--weight-700: 700;
+}
